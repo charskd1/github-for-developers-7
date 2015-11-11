@@ -1,5 +1,7 @@
 # Introduction
 
-## Rob Kritzer
+** Name: ** Rob Kritzer
 
-## Fav Color: ## Blue
+** Fav Color: ** Blue
+
+** Current City: ** Sioux City
